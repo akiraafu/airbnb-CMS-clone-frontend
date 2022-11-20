@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=mx1dbMzd3tU
 
-## This is frontend code for a the airbn CMS clone project
+## This is frontend code for a the airbnb CMS clone project
 
 ### It uses the following technologies
 
